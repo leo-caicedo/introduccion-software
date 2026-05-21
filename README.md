@@ -32,15 +32,13 @@ Un repositorio de introducción al desarrollo de software usando **Python** como
 
 Desarrollado con 💛 por estudiantes apasionados por la tecnología:
 
-👤 Integrante
-
 🌟 **Stefany Tangarife**
 
 🌟 **Yoneibi Neira**
 
 🌟 **Juan Esteban Palacios**
 
-🌟 **Favio Naranjo**
+🌟 **Fabio Naranjo**
 
 🌟 **Leonardo Oyola**
 
