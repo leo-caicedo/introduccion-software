@@ -11,5 +11,4 @@ for vc in range(1, 10):
     resultado = vc * N
 
     # Mostrar el resultado de la multiplicación.
-    print(f'{N} x {vc} = {resultado}')
-    
+    print(f'{N} X {vc} = {resultado}')
